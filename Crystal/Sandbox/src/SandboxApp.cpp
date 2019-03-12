@@ -10,7 +10,6 @@ public:
 	~SandBox()
 	{
 	}
-
 };
 
 Crystal::Application * Crystal::CreateApplication()
